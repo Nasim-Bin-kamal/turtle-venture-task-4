@@ -22,7 +22,7 @@ const options = {
         },
         servers: [
             {
-                url: 'http://localhost:5000'
+                url: 'https://sheltered-castle-17740.herokuapp.com'
             }
         ]
     },
